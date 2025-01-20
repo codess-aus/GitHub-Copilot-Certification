@@ -106,3 +106,14 @@ Keeping the prompt lengthy and detailed.
 
 Avoiding examples in the prompt to not restrict Copilot's creativity.
 
+## What IDEs does GitHub Copilot support? (Choose two.)
+
+Visual Studio, NetBeans, Eclipse
+
+Visual Studio, BlueJ, NetBeans
+
+**Azure Data Studio, Visual Studio, IntelliJ IDEA**
+
+**Visual Studio Code, Xcode, Vim/NeoVim**
+
+[Hint](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
