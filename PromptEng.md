@@ -76,3 +76,26 @@ Only responses that pass all filters are delivered to the user. Copilot then ini
 
 The process is repeated as you provide more prompts, with Copilot continuously handling user requests, understanding their intent, and generating code in response. Over time, Copilot applies the cumulative feedback and interaction data, including context details, to improve its understanding of user intent and refine its code generation capabilities.
 
+## Data handling for GitHub Copilot code suggestions
+
+GitHub Copilot in the code editor does not retain any prompts like code or other context used for the purposes of providing suggestions to train the foundational models. It discards the prompts once a suggestion is returned.
+
+GitHub Copilot Individual subscribers can opt-out of sharing their prompts with GitHub which will otherwise be used to finetune GitHub’s foundational model.
+
+## Data handling for GitHub Copilot chat
+Here are the steps that it carries out which might be distinct from other features like code completion:
+
+- **Formatting**: Copilot meticulously formats the generated response for optimal presentation within the chat interface. It **highlights code snippets** to improve readability and may include options for direct integration into your code. Copilot showcases the formatted response in the Copilot Chat window within the IDE, allowing you to easily review and interact with the provided information.
+- **User engagement**: You can actively engage with the response by asking **follow-up questions, requesting clarifications, or providing additional input**. The chat interface maintains a conversation history to facilitate contextual understanding in subsequent interactions.
+**Data retention**: For Copilot Chat used outside the code editor, GitHub typically retains prompts, suggestions, and supporting context for **28 days**. Specific retention policies for Copilot Chat within the code editor may vary.
+  
+The same goes for CLI, Mobile, and GitHub Copilot Chat on GitHub.com.
+
+GitHub Copilot's context window typically ranges from approximately **200-500 lines of code** or up to a few thousand tokens. This limitation can vary depending on the specific implementation and version of Copilot being used.
+
+Copilot Chat currently operates with a context window of **4k tokens**, providing a broader scope for understanding and responding to user queries compared to the standard Copilot.
+
+Despite these advancements, you should be mindful of context window limitations when crafting prompts. 
+
+Breaking down complex problems into smaller, more focused queries or providing relevant code snippets can significantly enhance the model's ability to provide accurate and helpful responses.
+
