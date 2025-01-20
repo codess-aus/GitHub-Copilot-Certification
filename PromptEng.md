@@ -99,3 +99,8 @@ Despite these advancements, you should be mindful of context window limitations 
 
 Breaking down complex problems into smaller, more focused queries or providing relevant code snippets can significantly enhance the model's ability to provide accurate and helpful responses.
 
+## LoRA fine-tuning
+
+Traditional full fine-tuning means to train all parts of a neural network, which can be slow and heavily reliant on resources. But LoRA (Low-Rank Adaptation) fine-tuning is a clever alternative. It's used to make large pretrained language models (LLMs) work better for specific tasks without redoing all the training.
+
+**LoRA** adds smaller trainable parts to each layer of the pretrained model, instead of changing everything.
