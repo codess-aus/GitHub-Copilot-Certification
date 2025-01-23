@@ -25,7 +25,9 @@ jobs:
 
       - name: Make changes
         run: |
-          echo "Automated commit for $(date)" > commit.txt
+          DAY=$(date +%d) # Get the day of the month
+          FILE="commit$(( DAY % 4 + 1 )).txt" # Cycle through commit1.txt, commit2.txt, commit3.txt, commit4.txt
+          cp $FILE commit.txt
           git add commit.txt
 
       - name: Commit changes
