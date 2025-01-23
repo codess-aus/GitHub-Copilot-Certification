@@ -26,9 +26,9 @@ jobs:
       - name: Make changes
         run: |
           DAY=$(date +%d) # Get the day of the month
-          FILE="commit$(( DAY % 4 + 1 )).txt" # Cycle through commit1.txt, commit2.txt, commit3.txt, commit4.txt
-          cp $FILE commit.txt
-          git add commit.txt
+          FILE="copilot$(( DAY % 4 + 1 )).md" # Cycle through copilot1.md, copilot2.md, copilot3.md, copilot4.md
+          cp $FILE commit.md
+          git add commit.md
 
       - name: Commit changes
         run: |
