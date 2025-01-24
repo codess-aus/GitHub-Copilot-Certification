@@ -1,0 +1,15 @@
+{
+  "name": "create-pull-request",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "ncc build src/index.js -o dist"
+  },
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.0.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.33.0"
+  }
+}
