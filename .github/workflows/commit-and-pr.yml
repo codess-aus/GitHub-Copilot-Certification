@@ -13,10 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Checkout copilot-files branch
+      - name: Checkout copilot branch
         uses: actions/checkout@v2
         with:
-          ref: copilot-files
+          ref: copilot
 
       - name: Set up Git
         run: |
@@ -45,7 +45,7 @@ jobs:
 
       - name: Create Pull Request
         id: create_pr
-        uses: peter-evans/create-pull-request@v3
+        uses: codess-aus/create-pull-request@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: $BRANCH_NAME
