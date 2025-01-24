@@ -1,0 +1,73 @@
+name: Daily Merge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  daily-merge:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Check for copilot branch
+      run: |
+        if ! git show-ref --verify --quiet refs/heads/copilot; then
+          echo "Branch copilot does not exist. Exiting."
+          exit 0
+        fi
+
+    - name: Find first file different from main
+      id: find-file
+      run: |
+        git fetch origin main
+        for file in $(git diff --name-only origin/main copilot); do
+          if ! git diff --quiet origin/main copilot -- "$file"; then
+            echo "::set-output name=file::$file"
+            echo "::set-output name=full_sha::$(git rev-parse HEAD:$file)"
+            exit 0
+          fi
+        done
+        echo "No new files to merge. Exiting."
+        exit 1
+
+    - name: Create new branch
+      if: success()
+      run: |
+        FILE_NAME=$(echo "${{ steps.find-file.outputs.file }}" | sed 's/\//-/g')
+        NEW_BRANCH="merge-${FILE_NAME}-$(date +%Y%m%d%H%M%S)"
+        git checkout -b $NEW_BRANCH
+        git add "${{ steps.find-file.outputs.file }}"
+        git commit -m "Add ${{ steps.find-file.outputs.file }}"
+        git push origin $NEW_BRANCH
+
+    - name: Create Pull Request
+      if: success()
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ steps.create-branch.outputs.new_branch }}
+        title: "Daily Merge: ${{ steps.find-file.outputs.file }}"
+        body: "This PR merges ${{ steps.find-file.outputs.file }} to main."
+
+    - name: Merge Pull Request
+      if: success()
+      uses: actions/github-script@v3
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const { data: pullRequest } = await github.pulls.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: "Daily Merge: ${{ steps.find-file.outputs.file }}",
+            head: ${{ steps.create-branch.outputs.new_branch }},
+            base: "main",
+            body: "This PR merges ${{ steps.find-file.outputs.file }} to main."
+          });
+          await github.pulls.merge({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            pull_number: pullRequest.number,
+          });
