@@ -38,9 +38,11 @@ Slash commands in GitHub Copilot Chat allow you to quickly specify the intent of
 
 ![optimize](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/86883992639778e328a95c9302bfeff1548a14db/images/optimize.png)
 
-**/tests**: Automatically creates unit tests for the selected code. You can simply highlight the code and use /tests using Mocha to generate tests.
+**/tests**: Automatically creates unit tests for the selected code. You can simply **highlight** the code and use /tests using Mocha to generate tests.
 
 ![tests](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/86883992639778e328a95c9302bfeff1548a14db/images/tests.png)
+
+
 
 
 
