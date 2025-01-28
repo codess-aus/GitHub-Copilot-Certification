@@ -1,3 +1,5 @@
+# Sample questions
+
 ## What is GitHub Copilot? 
 
 **GitHub Copilot is an AI pair programmer that you can use to get code suggestions.**
