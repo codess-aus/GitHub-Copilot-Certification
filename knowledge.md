@@ -228,3 +228,47 @@ Visual Studio, BlueJ, NetBeans
 ***Implicit prompts with slash commands in inline chat allow you for more straightforward interaction when fixing code. By using features like '/fix', GitHub Copilot can provide helpful responses even without detailed prompting, which streamlines the development process.***
 
 - Implicit prompts help detect security vulnerabilities and potential malicious activities within Visual Studio Code projects for increased safety.
+
+## Which of the following choices isn't mentioned as one of the programming languages receiving strong support from GitHub Copilot? 
+
+- Python
+
+- JavaScript
+
+**- Java**
+***Correct. Java isn't mentioned in the list of languages receiving strong support from GitHub Copilot.***
+
+Ruby
+
+## Which slash command in GitHub Copilot Chat is used to generate unit tests for selected code? 
+
+- /generate
+
+- /test
+
+**-/tests**
+***Correct. The /tests slash command is used for generating unit tests for selected code.***
+
+- /unittest
+
+## What is the purpose of the @workspace agent in GitHub Copilot Chat? 
+
+- To focus only on the current file
+
+**- To extend the context of questions to the whole project**
+***Correct. The @workspace agent broadens the scope of Copilot's understanding to the entire project or workspace.***
+
+- To run terminal commands
+
+- To change Visual Studio Code settings
+
+ ## What command would you use to get an explanation of a specific command using GitHub Copilot CLI? 
+
+- gh copilot suggest
+
+**- gh copilot explain**
+***Correct. The 'gh copilot explain' command is used to get explanations for specific commands.***
+
+- gh copilot clarify
+
+- gh copilot describe
