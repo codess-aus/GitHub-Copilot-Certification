@@ -272,3 +272,38 @@ Ruby
 - gh copilot clarify
 
 - gh copilot describe
+
+## Which GitHub Copilot plan includes enterprise-grade security and privacy? 
+
+- Pro
+
+- Business
+
+- Enterprise
+
+- **Both B and C**
+***Both the Business and Enterprise plans offer enterprise-grade security and privacy features.***
+
+## What should you do if GitHub Copilot isn't providing code suggestions? 
+
+- Restart the computer
+
+- **Check the internet connection**
+***Ensuring a stable internet connection is essential for GitHub Copilot to function properly and provide code suggestions.***
+
+- Disable the Copilot extension
+
+- Change the programming language
+
+## What is the purpose of the content exclusion feature in GitHub Copilot? 
+
+- To enhance code completion accuracy
+
+- **To prevent specific files or repositories from being used for code suggestions**
+***The content exclusion feature ensures that GitHub Copilot doesn't inadvertently suggest sensitive or proprietary code.***
+
+- To increase the speed of code suggestions
+
+- To provide legal protection against IP claims
+
+  
