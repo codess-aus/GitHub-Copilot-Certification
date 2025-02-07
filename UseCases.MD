@@ -30,4 +30,8 @@ GitHub Copilot significantly improves the process of writing and maintaining cod
 
 GitHub Copilot can assimilate your code, and help you write relevant comments or documentation for functions or the entire code.
 
-![Enhanced document writing]()
+![Enhanced document writing](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/2ee94ad7df65af5c6cc969f8a25f7de7ab82db2a/images/enhanced-documentation-writing.gif)
+
+## Automating the boring stuff
+
+
