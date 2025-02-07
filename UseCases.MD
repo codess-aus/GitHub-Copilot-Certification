@@ -8,5 +8,15 @@ Learning new programming languages or frameworks can be challenging, but GitHub 
 - **Language support**: Supports a wide range of languages, helping you transition smoothly from one language to another.
 - **Documentation integration**: By providing inline suggestions related to API usage and function parameters, GitHub Copilot reduces the need to constantly refer to external documentation.
 
-![Explain]()
+![Explain](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/8ff30f2763628c93fc9258dc76a91780836c69f7/images/accelerate-learning.gif)
+
+## Minimizing context switching
+
+Context switching is a significant productivity drain for developers and can disrupt your workflow and reduce focus. GitHub Copilot helps maintain focus by providing relevant code suggestions within your current context, allowing you to concentrate on solving complex problems. The following are ways GitHub Copilot help to achieve this:
+
+- **In-editor assistance**: GitHub Copilot provides code suggestions directly in the IDE, minimizing the need to search for solutions online.
+- **Quick references**: When working with APIs or libraries, GitHub Copilot can suggest correct method calls and parameters, reducing the need to consult documentation.
+- **Code completion**: By autocompleting repetitive code patterns, GitHub Copilot allows developers to maintain their train of thought without interruption.
+
+![Context Switching]()
 
