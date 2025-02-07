@@ -20,4 +20,14 @@ Context switching is a significant productivity drain for developers and can dis
 
 ![Context Switching](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/33aa17638745cd1986fb0c57c6ef9ecdb6662e29/images/minimize-context-switching.gif)
 
+## Enhanced documentation writing
+GitHub Copilot significantly improves the process of writing and maintaining code documentation:
 
+- **Inline comments**: Generates contextually relevant inline comments explaining complex code sections.
+- **Function descriptions**: Automatically suggests function descriptions, including parameter explanations and return value details.
+- **README generation**: Assists in creating project README files by suggesting structure and content based on the project's codebase.
+- **Documentation consistency**: Helps maintain consistent documentation style across a project.
+
+GitHub Copilot can assimilate your code, and help you write relevant comments or documentation for functions or the entire code.
+
+![Enhanced document writing]()
