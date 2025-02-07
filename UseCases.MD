@@ -18,5 +18,6 @@ Context switching is a significant productivity drain for developers and can dis
 - **Quick references**: When working with APIs or libraries, GitHub Copilot can suggest correct method calls and parameters, reducing the need to consult documentation.
 - **Code completion**: By autocompleting repetitive code patterns, GitHub Copilot allows developers to maintain their train of thought without interruption.
 
-![Context Switching]()
+![Context Switching](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/33aa17638745cd1986fb0c57c6ef9ecdb6662e29/images/minimize-context-switching.gif)
+
 
