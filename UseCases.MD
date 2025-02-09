@@ -34,4 +34,30 @@ GitHub Copilot can assimilate your code, and help you write relevant comments or
 
 ## Automating the boring stuff
 
+- **Boilerplate code generation**: GitHub Copilot can quickly produce boilerplate code for common functionalities, such as setting up a REST API or creating a class structure.
+- **Sample data creation**: When testing, GitHub Copilot can generate realistic sample data, saving time on manual data creation.
+- **Writing unit tests**: GitHub Copilot can suggest test cases and even generate entire unit tests based on the code suggested.
+- **Code translation and refactoring**: GitHub Copilot assists in code refactoring by suggesting improved patterns or more efficient implementations and even converting programming languages.
+
+You can accelerate your development process by using GitHub Copilot to generate boilerplate code, which can then be customized to meet your specific needs.
+
+![Boilerplate Code](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/5b7e8bf9e8daf4d1e6dbfa111c15b6ee9b722449/images/automate-boring-stuff.gif)
+
+## Personalized code completion
+
+GitHub Copilot adapts to individual coding styles and project contexts, providing increasingly relevant suggestions over time and improving code efficiency. Here is how GitHub Copilot achieves personalized code completion:
+
+- **Contextual understanding**: GitHub Copilot analyzes the development environment and project structure to offer more accurate and relevant code completions.
+- **Learning from patterns**: As developers work on a project, GitHub Copilot learns from their coding patterns and preferences, tailoring suggestions accordingly.
+
+In the example below, notice how GitHub Copilot suggested a style of writing functions, but when a preferred style was used, it adapted and continued suggestions with the preferred style.
+
+[Personalized Code](https://github.com/codess-aus/GitHub-Copilot-Certification/blob/5b7e8bf9e8daf4d1e6dbfa111c15b6ee9b722449/images/personalized-code-completion.gif)
+
+By leveraging GitHub Copilot in these ways, developers can significantly reduce the time spent on routine tasks, accelerate their learning of new technologies, and maintain better focus throughout their workday. This enhanced productivity allows for more time to be dedicated to solving complex problems and innovating within their projects.
+
+
+
+
+
 
