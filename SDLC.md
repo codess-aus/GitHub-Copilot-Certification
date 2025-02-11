@@ -37,4 +37,8 @@ GitHub Copilot proves valuable in ongoing maintenance tasks:
 - **Documentation updates**: Assist in keeping code comments and documentation in sync with changes.
 - **Legacy code understanding**: Help developers understand and work with unfamiliar or legacy code by providing explanations and modern equivalents.
 
-By involving GitHub Copilot throughout the SDLC, development teams can experience improved efficiency, consistency, and code quality across all stages of software development. This AI-assisted approach allows developers to focus more on creative problem-solving and less on repetitive coding tasks, potentially leading to faster development cycles and higher-quality software products.
+By involving GitHub Copilot throughout the SDLC, development teams can experience improved efficiency, consistency, and code quality across all stages of software development. 
+
+This AI-assisted approach allows developers to focus more on creative problem-solving and less on repetitive coding tasks, potentially leading to faster development cycles and higher-quality software products.
+
+### SLDC
