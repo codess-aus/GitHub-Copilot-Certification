@@ -306,4 +306,47 @@ Ruby
 
 - To provide legal protection against IP claims
 
-  
+## What is the role of GitHub Copilot Chat in generating unit test cases? 
+
+- It automatically writes all the test cases for the solution.
+
+- It only suggests possible input parameters and expected output values.
+
+- **It helps generate unit tests based on the code files and selections specified by the user.**
+***GitHub Copilot Chat helps generate code snippets for test cases, suggesting possible inputs, outputs, assertions, and identifying edge cases and boundary conditions.***
+
+## What is the purpose of the Test Explorer in Visual Studio Code? 
+
+- To write new code snippets for unit tests.
+
+- To run and debug unit tests, view the results of test runs, and manage test cases in the workspace.
+***The Test Explorer is used to run and debug unit tests, view test results, and manage test cases in the workspace.***
+
+- To generate test cases based on the code context.
+
+## What is the purpose of generating assertions to ensure that function input parameters are valid? 
+
+- To enhance the performance of the function.
+
+- **To prevent invalid data from being processed by the function.**
+***Generating assertions for function input parameters helps prevent invalid data from being processed by the function.***
+
+- To check if the function returns the expected output.
+
+## What does the GitHub Copilot extension for Visual Studio Code provide when creating unit tests for specific conditions? 
+
+- It provides a user interface for manually writing tests.
+
+- It automatically runs the tests and provides the results.
+
+- **It suggests completions and generates tests based on the code context.**
+***GitHub Copilot suggests completions and generates tests based on the code context.***
+
+## What is the benefit of using GitHub Copilot for generating unit tests? 
+
+- It reduces the need for manual testing.
+
+- **It can suggest a range of unit tests based on the code context, saving development time.**
+***GitHub Copilot can suggest a range of unit tests based on the code context, which can save development time.***
+
+- It automatically fixes bugs in the code.
