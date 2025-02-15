@@ -350,3 +350,99 @@ Ruby
 ***GitHub Copilot can suggest a range of unit tests based on the code context, which can save development time.***
 
 - It automatically fixes bugs in the code.
+
+## How does GitHub Copilot's matching public code feature work?
+
+- It performs real-time searches across all GitHub repositories, including private ones
+
+- It only matches code from repositories that were created in the last 24 hours
+
+- It checks code against external code hosting platforms outside of GitHub
+
+- **It searches for matches by comparing code suggestions against an index of public GitHub repositories, which is refreshed every few months**
+[💡](https://docs.github.com/en/copilot/using-github-copilot/finding-public-code-that-matches-github-copilot-suggestions)
+
+## How can you exclude specific files from GitHub Copilot?
+
+- Editing the file .gitignore
+
+- Using a command in the terminal
+
+- Configuring exclusions in the Copilot configuration file
+
+- Browsing to the repository settings on GitHub and adding the paths to exclude
+
+[💡](https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion/excluding-content-from-github-copilot)
+
+## What does GitHub Copilot analyze to offer relevant suggestions as you are developing new code?
+
+- Analyzes only the context within the current line of code.
+
+- Analyzes the context in all files within the repository.
+
+- Analyzes only the context within the current file.
+
+- **Analyzes the context in the current file and related files.**
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/best-practices-for-using-github-copilot#guide-copilot-towards-helpful-outputs)
+
+## Which set of principles correctly represents Microsoft's six key principles for Responsible AI that guide GitHub Copilot's development?
+
+- **Fairness, Reliability and Safety, Privacy and Security, Inclusiveness, Transparency, and Accountability**
+
+- Security, Development, Operations, Maintenance, Support, and Documentation
+
+- Privacy, Performance, Accessibility, Scalability, Maintainability, and Testing
+
+- Efficiency, Speed, Accuracy, Innovation, Reliability, and Security
+
+[💡](https://learn.microsoft.com/en-us/training/modules/responsible-ai-with-github-copilot/3-six-principles-of-responsible-ai)
+
+## How is seat usage calculated for GitHub Copilot at the enterprise level during a billing cycle?
+
+- **Number of seats × (Days elapsed / Total days in billing cycle)**
+
+- Total number of commits × Number of active developers
+
+- Total repository size × Number of organizations
+
+- Number of code suggestions × Number of accepted completions
+
+[💡](https://docs.github.com/en/enterprise-cloud@latest/copilot/managing-copilot/managing-copilot-for-your-enterprise/managing-access-to-copilot-in-your-enterprise/viewing-copilot-license-usage-in-your-enterprise)
+
+## How does GitHub Copilot handle data retention for code suggestions in the IDE?
+
+- All suggestions are permanently stored in a local database for future reference
+
+- Suggestions are automatically saved to GitHub repositories for version control
+
+- **Suggestions are held temporarily in memory and discarded after use, not written to disk**
+
+- Code snippets are cached on disk for 30 days before being deleted
+
+[💡](https://resources.github.com/learn/pathways/copilot/essentials/how-github-copilot-handles-data/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
