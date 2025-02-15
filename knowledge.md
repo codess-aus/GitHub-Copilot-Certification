@@ -422,6 +422,66 @@ Ruby
 
 [💡](https://resources.github.com/learn/pathways/copilot/essentials/how-github-copilot-handles-data/)
 
+## Which of the following options best describes GitHub Copilot?
+
+- **An AI coding assistant that helps developers by suggesting code and completing code snippets.**
+
+- A code editor that provides debugging and error-checking features.
+
+- A tool that automatically tests and deploys code to production environments.
+
+- A version control system that tracks and manages changes in a codebase.
+
+[💡](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)
+
+## Which of the following integrates GitHub Copilot Chat with external tools?
+
+- GitHub Copilot Integrations
+
+- GitHub Copilot Open
+
+- **GitHub Copilot Extensions**
+
+- GitHub Copilot Marketplace
+
+[💡](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/using-extensions-to-integrate-external-tools-with-copilot-chat)
+
+## Which is true about Copilot's Content exclusions? (Choose two)
+
+- Content exclusions are applied instantly
+  ***up to 30 mins to apply***
+
+- Copilot completely ignores excluded files
+  ***may use semantic information provided by the IDE indirectly***
+
+- **Context exclusions can be configured at the repository and organization level**
+
+- **Copilot offers different plans with privacy considerations**
+
+- Content exclusions do not affect code completion
+  ***Code completion will not be available in the affected files***
+
+💡 https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion/excluding-content-from-github-copilot
+
+## What command is used to install the GitHub Copilot extension on the CLI?
+
+- gh extension install github/gh-copilot
+
+- gh copilot setup
+
+- gh copilot install
+
+- gh extension add copilot
+
+[💡](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli)
+
+
+
+
+
+
+
+
 
 
 
