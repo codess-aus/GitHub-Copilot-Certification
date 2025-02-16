@@ -475,6 +475,56 @@ Ruby
 
 [💡](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli)
 
+## Which of the following describes the GitHub Copilot Editor configuration file?
+
+- A YAML file with build instructions
+
+- **A Markdown file with natural language instructions for customizing Copilot Chat responses**
+
+- An XML file with deploy settings
+
+- A JSON file with security settings
+  
+[💡](https://docs.github.com/en/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
+
+## What are the post-processing checks performed on GitHub Copilot's responses?
+
+- **Toxic language, relevancy, code quality (including security vulnerabilities), unique identifiers, and optional public code matching**
+
+- Only syntax validation and code formatting checks
+
+- Performance benchmarking and memory usage optimization
+
+- Just checking for compilation errors and runtime exceptions
+
+[💡](https://resources.github.com/learn/pathways/copilot/essentials/how-github-copilot-handles-data/)
+
+## How can you provide GitHub Copilot with context to generate tailored responses for your repository?
+
+- By modifying the .gitconfig file to include custom instructions
+
+- By creating a GitHub issue named copilot-instructions in the repository with the necessary context
+
+- By sending an email to GitHub support with your project details
+
+- By creating a file named .github/copilot-instructions.md in the repository
+
+[💡](https://docs.github.com/en/enterprise-cloud@latest/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
