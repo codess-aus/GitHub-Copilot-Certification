@@ -511,6 +511,153 @@ Ruby
 
 [💡](https://docs.github.com/en/enterprise-cloud@latest/copilot/customizing-copilot/adding-custom-instructions-for-github-copilot)
 
+## What IDEs does GitHub Copilot support? (Choose two.)
+
+- Visual Studio, NetBeans, Eclipse
+
+- **Azure Data Studio, Visual Studio, IntelliJ IDEA**
+
+- Visual Studio, BlueJ, NetBeans
+
+- **Visual Studio Code, Xcode, Vim/NeoVim**
+  
+[💡](https://docs.github.com/en/copilot/using-github-copilot/getting-code-suggestions-in-your-ide-with-github-copilot)
+
+## Is GitHub Copilot free to use for everyone?
+
+- No
+
+- **Yes**
+
+[💡](https://github.com/features/copilot/plans)
+
+## Which of the following describes how to use the GitHub Copilot's Productivity API?
+
+- To collect audit logs
+
+- To automatically update Copilot
+
+- To exclude specific files
+
+- To collect usage metrics from organization members
+
+[💡](https://docs.github.com/en/copilot/rolling-out-github-copilot-at-scale/analyzing-usage-over-time-with-the-copilot-metrics-api)
+
+## Which of the following is a potential benefit of using GitHub Copilot to enhance developer workflows?
+
+- It completely replaces the need for code review in every project.
+
+- It only works with software written in a single programming language.
+
+- It automatically merges pull requests without human approval.
+
+- It can suggest code snippets to increase developer productivity.
+
+[💡](https://docs.github.com/en/copilot)
+
+## What is the primary purpose of the '/tests' slash command in GitHub Copilot?
+
+- It runs all existing unit tests in the project without generating new ones
+
+- It permanently removes all existing test files to start fresh
+
+- **It generates a suite of unit tests for the currently open file, using context from existing test files if available**
+
+- It only validates the syntax of existing test files without creating new tests
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/guides-on-using-github-copilot/writing-tests-with-github-copilot)
+
+## What is the easiest way to get started with GitHub Copilot?
+
+- Use the Copilot website and paste your code when asking for suggestions.
+
+- Create a new public GitHub repo and enable Copilot to scan your code and make suggestions.
+
+- **Install the Copilot extension in your preferred environment, such as Visual Studio Code.**
+
+- Request access from GitHub Support and wait for approval before using GitHub Copilot.
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot)
+
+## Which elements can GitHub Copilot use as context when generating suggestions?
+
+- **Content in the current file, neighboring files, repository URLs, file paths, and previous chat interactions**
+
+- Exclusively external documentation from the internet
+
+- Just the project's README file and nothing else
+
+- Only the current line of code being edited without any surrounding context
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/getting-started-with-github-copilot#using-context-in-github-copilot)
+
+## Which steps occur when GitHub Copilot's proxy service processes a prompt?
+
+- **Tests for toxic language, relevance checks, and detection of prompt hacking attempts**
+
+- Automatic code compilation and execution in a sandbox environment
+
+- Direct transmission to public repositories for reference checking
+
+- Translation to multiple programming languages and syntax validation
+
+[💡](https://resources.github.com/learn/pathways/copilot/essentials/how-github-copilot-handles-data/)
+
+## What are some of the principles of Prompt Engineering? (Choose three.)
+
+- Write long, complex instructions
+
+- **Ensure instructions are detailed and explicit**
+
+- **Focus on a single, well-defined task**
+
+- **Provide rich context for AI**
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
+
+## Which option below is NOT a possible way to grant access to Copilot for members of an organization?
+
+- Via your Organizations settings, enable GitHub Copilot for either selected teams or users or the entire organization.
+
+- Via your Enterprise settings, enable GitHub Copilot for selected organizations or all organizations.
+
+- You can use GitHub's REST API to grant access to GitHub Copilot for teams, or specific users, in your organization.
+
+- **As a member of an Organization, you can enable Copilot directly from your account settings.**
+
+[💡](Article Grant access to Copilot for members of an organization -https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/managing-access-to-github-copilot-in-your-organization/granting-access-to-copilot-for-members-of-your-organization)
+
+## Which statement correctly describes GitHub Copilot's CLI command functionality?
+
+- Commands are automatically executed without user confirmation when using 'gh copilot suggest'
+
+- **Users can get command explanations using 'gh copilot explain' and command suggestions using 'gh copilot suggest'**
+
+- Suggested commands are directly executed without being copied to the clipboard first
+
+- The 'gh copilot explain' command modifies system files without showing the explanation
+
+[💡](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line)
+
+## Can GitHub Copilot use semantic information from a file that is ignored by GitHub Copilot content exclusions?
+
+- No, it will ignore all information from excluded files.
+
+- **Yes, if the information is provided by the IDE indirectly.**
+
+[💡](https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion/excluding-content-from-github-copilot#limitations-of-content-exclusions)
+
+## What happens when you exclude content from GitHub Copilot? (Choose two)
+
+- **The content in affected files will not inform code completion suggestions in other files.**
+
+- The content in affected files will continue to inform GitHub Copilot Chat's responses.
+
+- Code completion will be unaffected in the affected files.
+
+- **Code completion will not be available in the affected files.**
+
+[💡](https://docs.github.com/en/copilot/managing-copilot/configuring-and-auditing-content-exclusion/excluding-content-from-github-copilot#about-content-exclusions-for-copilot)
 
 
 
