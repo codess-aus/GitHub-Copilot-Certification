@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYQVpEkOUQI=",
+  "success": true,
+  "projectFilePath": "C:\\code\\GitHub-Copilot-Certification\\SampleApps\\APL2007M4PrimeService-UnitTests\\Numbers\\Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misandfo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\misandfo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
