@@ -1,0 +1,10 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\App.g.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1_MarkupCompile.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.g.resources
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M2Sample1\obj\Debug\net6.0-windows\APL2007M2Sample1.sourcelink.json

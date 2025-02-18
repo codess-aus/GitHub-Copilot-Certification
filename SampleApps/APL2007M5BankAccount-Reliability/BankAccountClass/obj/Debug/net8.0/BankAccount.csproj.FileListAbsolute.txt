@@ -1,0 +1,15 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.exe
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\bin\Debug\net8.0\BankAccount.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\refint\BankAccount.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M5BankAccount-Reliability\BankAccountClass\obj\Debug\net8.0\ref\BankAccount.dll

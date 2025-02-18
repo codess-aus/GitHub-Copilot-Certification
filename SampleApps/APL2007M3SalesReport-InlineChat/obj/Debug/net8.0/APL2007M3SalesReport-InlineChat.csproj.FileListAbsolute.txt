@@ -1,0 +1,15 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.exe
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.runtimeconfig.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\refint\APL2007M3SalesReport-InlineChat.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.genruntimeconfig.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\ref\APL2007M3SalesReport-InlineChat.dll

@@ -1,0 +1,11 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\bin\Debug\netstandard2.0\Numbers.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\bin\Debug\netstandard2.0\Numbers.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\bin\Debug\netstandard2.0\Numbers.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.AssemblyReference.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4PrimeService\Numbers\obj\Debug\netstandard2.0\Numbers.pdb

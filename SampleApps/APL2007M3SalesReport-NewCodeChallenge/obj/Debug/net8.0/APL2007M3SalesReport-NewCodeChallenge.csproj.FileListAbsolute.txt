@@ -1,0 +1,15 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\bin\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.exe
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\bin\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\bin\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.runtimeconfig.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\bin\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\bin\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\refint\APL2007M3SalesReport-NewCodeChallenge.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\APL2007M3SalesReport-NewCodeChallenge.genruntimeconfig.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-NewCodeChallenge\obj\Debug\net8.0\ref\APL2007M3SalesReport-NewCodeChallenge.dll

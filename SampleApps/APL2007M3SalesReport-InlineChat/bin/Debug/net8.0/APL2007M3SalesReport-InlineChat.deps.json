@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "APL2007M3SalesReport-InlineChat/1.0.0": {
+        "runtime": {
+          "APL2007M3SalesReport-InlineChat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APL2007M3SalesReport-InlineChat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

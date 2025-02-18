@@ -1,0 +1,15 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.exe
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.runtimeconfig.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\bin\Debug\net8.0\APL2007M3SalesReport.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\refint\APL2007M3SalesReport.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\APL2007M3SalesReport.genruntimeconfig.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M3SalesReport-CodeLogicChallenge\obj\Debug\net8.0\ref\APL2007M3SalesReport.dll

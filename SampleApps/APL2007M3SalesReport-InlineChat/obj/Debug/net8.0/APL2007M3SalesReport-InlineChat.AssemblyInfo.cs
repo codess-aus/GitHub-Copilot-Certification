@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APL2007M3SalesReport-InlineChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d46c77698612c53f2923c3df1ccff4971b41d0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dd754f4a702ea18328234393036aec8d950b082")]
 [assembly: System.Reflection.AssemblyProductAttribute("APL2007M3SalesReport-InlineChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APL2007M3SalesReport-InlineChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

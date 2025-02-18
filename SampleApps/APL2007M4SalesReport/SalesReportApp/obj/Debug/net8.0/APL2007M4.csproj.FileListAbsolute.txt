@@ -1,0 +1,15 @@
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.exe
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.deps.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.runtimeconfig.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\bin\Debug\net8.0\APL2007M4.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.AssemblyInfoInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.AssemblyInfo.cs
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.csproj.CoreCompileInputs.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.sourcelink.json
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\refint\APL2007M4.dll
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.pdb
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\APL2007M4.genruntimeconfig.cache
+C:\code\GitHub-Copilot-Certification\SampleApps\APL2007M4SalesReport\SalesReportApp\obj\Debug\net8.0\ref\APL2007M4.dll
