@@ -699,7 +699,37 @@ It automatically runs the tests and provides the results.
 
 - It automatically fixes bugs in the code.
 
+## Which of these advanced features aren't available in GitHub Copilot Enterprise but were available in GitHub Copilot Business? 
 
+- Copilot Chat Customized to your Codebase
+
+- Copilot Pull Request Summaries
+
+- Copilot Documentation Search
+
+- **None of the above**
+
+## How does Copilot use an organization's codebase and internal knowledge to enhance productivity and collaboration? 
+
+- By providing code suggestions based on open-source libraries only
+
+- **By tailoring coding assistance, answering questions, and suggesting code aligned with the organization's standards and best practices**
+***Copilot applies internal knowledge to provide contextualized coding assistance, answer questions, explain code intent, and suggest best practices, ultimately boosting productivity and collaboration.***
+
+- By suggesting code without considering the project context
+
+- By randomly generating code snippets
+
+## Describe the purpose and benefits of Copilot's pull request summaries in GitHub Copilot Enterprise. 
+
+- They aim to provide a detailed history of code changes in pull requests
+
+- **They assist in automatically generating concise overviews of pull requests based on code changes, enhancing understanding and accelerating review processes**
+***Copilot's pull request summaries automatically generate concise overviews of pull requests based on code changes, enhancing understanding and accelerating review processes.***
+
+- They track developers' activity within a pull request
+
+- None of the above
 
 
 
