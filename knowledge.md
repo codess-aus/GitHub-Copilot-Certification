@@ -731,7 +731,12 @@ It automatically runs the tests and provides the results.
 
 - None of the above
 
+## A developer wants to exclude all files within a specific directory from GitHub Copilot’s suggestions. Which syntax would they use in the .copilotignore file to achieve this?
 
+- copilot off: directory
+- # Exclude directory
+- **/directory/***
+- ignore: /directory/
 
 
 
