@@ -738,15 +738,38 @@ It automatically runs the tests and provides the results.
 - /directory/*
 - ignore: /directory/
 ```
+To exclude all files within a specific directory from GitHub Copilot’s suggestions, you can add the directory path to the .copilotignore file. The syntax is similar to .gitignore. For example, if you want to exclude all files in the example_directory, you would add the following line to your .copilotignore file:
 /directory/*
-This pattern ensures that all files within the specified directory are ignored.
 
+You are a developer who is concerned about how GitHub Copilot processes and stores your data, especially when you are working on sensitive projects. Your company handles confidential data, and you want to ensure that no private code or data is being shared or stored in ways that could compromise security. Which statement best describes how GitHub Copilot handles user data, including your code and suggestions?
 
+- **GitHub Copilot temporarily logs user code inputs and suggestions to improve AI model performance, but deletes them after a short period.**
+- GitHub Copilot does not store any user code inputs or suggestions, ensuring complete privacy.
+- GitHub Copilot encrypts and stores all code inputs to personalize suggestions for each user.
+- GitHub Copilot stores all code suggestions permanently on GitHub’s servers.
 
+You are managing a team of developers using GitHub Copilot to speed up coding tasks. Your company handles highly sensitive customer data and must comply with privacy regulations like GDPR. During a code review, you discover that GitHub Copilot suggested code snippets based on patterns that resemble sensitive information from previous projects. The team needs to implement safeguards to ensure Copilot doesn't leak sensitive information from the current or past projects. What safeguards should your team put in place to prevent sensitive data from being exposed through GitHub Copilot’s suggestions?
 
+- Disable GitHub Copilot across the entire project to ensure no sensitive data is leaked.
+- Encrypt sensitive data within the codebase to ensure it is not accessible by Copilot.
+- Request GitHub to remove all instances of sensitive data from their Copilot training model.
+- **Use Copilot in private mode to limit data sharing, and exclude sensitive data files from Copilot’s context.**
 
+You are an IT administrator at a large enterprise that uses GitHub Copilot Business. Your organization needs to automate the management of its GitHub Copilot Business subscriptions using GitHub’s REST API. You’ve been asked to integrate a process that allows your team to list all active Copilot subscriptions and assign licenses to users programmatically. Which API endpoint and method should you use to retrieve the list of active Copilot subscriptions, and what permissions are required for successful API calls?
 
+- **Use the GET /orgs/{org}/copilot/licenses endpoint; the API token needs admin:org scope.**
+***This endpoint allows you to retrieve the list of active Copilot subscriptions in your organization. Make sure the API token has the necessary admin:org scope for successful API calls.***
+- Use the GET /users/{username}/copilot/licenses endpoint; the API token needs read:org scope.
+- Use the POST /orgs/{org}/copilot/assign-license endpoint; the API token needs write:org scope.
+- Use the GET /orgs/{org}/copilot/subscriptions endpoint; the API token needs admin:org scope.
 
+You are developing an application in Java and using GitHub Copilot to assist with generating repetitive code, such as setting up getter and setter methods. However, you’ve noticed that Copilot sometimes generates code that doesn't quite match the style or structure of your project. This prompts you to investigate how the context for a prompt is determined and how it influences Copilot’s suggestions. Which of the following best explains how GitHub Copilot determines the context of a prompt and uses it to generate code suggestions?
+
+- Copilot always analyzes the entire project, across all files, to provide suggestions that are consistent with the overall architecture of the project.
+- **GitHub Copilot analyzes the surrounding code and comments within the file to understand the context of the prompt, generating suggestions based on the patterns and structure in the visible part of the file.**
+***This allows Copilot to provide suggestions that are more consistent with the immediate context and style of the project.***
+- GitHub Copilot uses only the text on the current line where the cursor is located, ignoring the rest of the file, to generate code suggestions.
+- GitHub Copilot determines the context based solely on the function or class where the cursor is positioned and excludes any other information in the file.
 
 
 
