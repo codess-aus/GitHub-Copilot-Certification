@@ -771,7 +771,50 @@ You are developing an application in Java and using GitHub Copilot to assist wit
 - GitHub Copilot uses only the text on the current line where the cursor is located, ignoring the rest of the file, to generate code suggestions.
 - GitHub Copilot determines the context based solely on the function or class where the cursor is positioned and excludes any other information in the file.
 
+## How does GitHub Copilot work? 
 
+- **GitHub Copilot uses the prompts that you write in natural language text, to provide suggestions based on what you type.**
+***GitHub Copilot is trained on billions of lines of code. It turns natural language prompts into coding suggestions across dozens of languages.***
+
+- GitHub Copilot uses flashing lights to instruct you what to type.
+
+- GitHub Copilot accepts prompts written in radio language, and provides suggestions based on what you type.
+
+## What are some features of GitHub Copilot Free? 
+
+- It's a free unrestricted AI tool that works independent of code editors.
+
+- **It provides several suggestions and chats per month directly in your IDE and on github.com.**
+***It also supports multi-file editing and switching models!***
+
+- It provides an option to enable slower responses, preserving your Copilot Pro quota.
+
+ ## How can you accept GitHub Copilot's suggestions? 
+
+- **Press the Tab key.**
+***Copilot offers you a suggestion, which appears as grey code if you use black as your text color. To accept the suggestion, you need to press the Tab key.***
+
+- Press F1 key.
+
+- Press F4 key.
+
+ ## Identify which statement is valid and select the correct answer: 
+
+- A prompt, which is our output, is a collection of songs that tells GitHub Copilot what to generate.
+
+- **A prompt, which is our input, is a collection of instructions or guidelines that tell GitHub Copilot what to generate.**
+***A prompt is crucial in eliciting specific responses from Copilot. The prompt might be a comment that steers Copilot to generate code on your behalf or writing code that Copilot autocompletes.***
+
+- A prompt, which is a separate document, is a collection of instructions that tells GitHub Copilot what to generate.
+
+## What does the quality of GitHub Copilot output depend on? 
+
+- Your code editor.
+
+- How well your extensions were installed.
+
+- **How well you crafted your prompt.**
+***Designing an effective prompt is crucial to ensuring that you achieve your desired output from GitHub Copilot. You need to detail your prompt as much as possible.***
 
 
 
