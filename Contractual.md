@@ -25,3 +25,5 @@ When you exclude certain files or directories, GitHub Copilot won't use the cont
 
 For example, excluding a critical configuration file might prevent Copilot from suggesting relevant code snippets that depend on the configurations defined in that file. It's essential to carefully analyze which files should be excluded to balance security and functionality.
 
+..
+
