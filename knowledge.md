@@ -816,6 +816,38 @@ You are developing an application in Java and using GitHub Copilot to assist wit
 - **How well you crafted your prompt.**
 ***Designing an effective prompt is crucial to ensuring that you achieve your desired output from GitHub Copilot. You need to detail your prompt as much as possible.***
 
+## What functionality isn't supported in GitHub Copilot Pro? 
+
+- **VPN Proxy support via self-signed certificates**
+***VPN Proxy support via self-signed certificates isn't available with GitHub Copilot for Individuals, but is available with GitHub Copilot for Business.***
+
+- Offers multi-line function suggestions
+
+- Editor integration
+
+- Blocks suggestions matching public code
+
+## What percentage of developers said that GitHub Copilot helps them code faster? 
+
+- 70%
+
+- 83%
+
+- 65%
+
+- **90%**
+***Ninety percent (90%) is the correct percentage of developers that said GitHub Copilot helps them code faster.***
+
+## After you enforced your GitHub Copilot Business policy, where do you first navigate in order to enable Copilot Business for all current and future users? 
+
+- Policies
+
+- **Your organizations in your profile dropdown menu**
+***This "Your organizations" in your profile dropdown menu is the first place to navigate to in order to enable GitHub Copilot Business.***
+
+- Settings in your profile dropdown menu
+
+- Selected teams/users
 
 
 
