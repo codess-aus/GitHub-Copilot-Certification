@@ -849,6 +849,50 @@ You are developing an application in Java and using GitHub Copilot to assist wit
 
 - Selected teams/users
 
+## How does GitHub Copilot work? 
+
+- **GitHub Copilot uses prompts and natural language text that you type to provide coding suggestions.**
+***GitHub Copilot is trained on billions of lines of code. It turns natural language prompts into coding suggestions across dozens of languages.***
+
+- GitHub Copilot uses lights, that you type, and it provides suggestions based on what you type.
+
+- GitHub Copilot uses radio language, that you type, and it provides suggestions based on what you type.
+
+## What are some GitHub Copilot Free features? 
+
+- It's a free unrestrticted AI tool that works independent of code editors.
+
+- **It provides several suggestions and chats per month directly in your IDE and on github.com.**
+***It also supports multi-file editing and and switching models!***
+
+- An option to enable slower responses, preservering your Copilot Pro quota.
+
+## How can you accept GitHub Copilot's suggestions? 
+
+- **Press the Tab key.**
+***Copilot offers you a suggestion, which appears as grey code if you use black as your text color. To accept the suggestion, you need to press the Tab key.***
+
+- Press the F1 key.
+
+- Press the F4 key.
+
+## Identify which statement is valid and select the correct answer: 
+
+- A prompt, which is our output, is a collection of songs that tells our copilot what to generate.
+
+- **A prompt, which is our input, is a collection of instructions or guidelines that tell our copilot what to generate.**
+***A prompt is crucial in eliciting specific responses from Copilot. The prompt might be a comment that steers Copilot to generate code on your behalf or writing code that Copilot autocompletes.***
+
+- A prompt, which is our document, is a collection of laptops that tells our Copilot what to generate.
+
+## What does the quality of the output from GitHub Copilot depend on? 
+
+- Your code editor.
+
+- How well your extensions were installed.
+
+- **How well you crafted your prompt.**
+***Designing an effective prompt is, therefore, crucial in ensuring we achieve our desired outcomes. You need to detail your prompt as much as possible.***
 
 
 
