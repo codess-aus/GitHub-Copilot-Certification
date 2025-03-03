@@ -909,9 +909,36 @@ Command	Description
 ```/new```	           Create a new project.
 ```/tests```	         Generate unit tests for the selected code.
 
+# Which of these can you NOT do with Copilot?
 
+- Get code suggestions as you type in your IDE
+- Chat with Copilot to ask for help with your code
+- **Generate images for your Readme files**
+- Ask Copilot for help using the command line
+- Generate a description of the changes in a pull request (Copilot Enterprise only)
+- Create and manage collections of documentation, called knowledge bases, to use as a context for chatting with Copilot (Copilot Enterprise only)
 
+Copilot is NOT available in?
 
+- In your IDE
+- In GitHub Mobile, as a chat interface
+- In Windows Terminal Canary, through the Terminal Chat interface
+- **In GitHub.Dev**
+- On the command line, through the GitHub CLI
+- On the GitHub website
+
+Which of these is features of Copilot is only available in the Enterprise subscription?
+
+- completions
+- edits
+- CLI
+- Pull Request summaries
+- workspace
+- text completion
+- extentions
+- models
+- code review
+- **knowledge bases**
 
 
 
