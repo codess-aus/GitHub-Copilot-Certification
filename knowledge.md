@@ -894,7 +894,20 @@ You are developing an application in Java and using GitHub Copilot to assist wit
 - **How well you crafted your prompt.**
 ***Designing an effective prompt is, therefore, crucial in ensuring we achieve our desired outcomes. You need to detail your prompt as much as possible.***
 
+## Which of the following subscription plans are available for GitHub Copilot?
+- GitHub Copilot Free, Pro, and Team
+-  GitHub Copilot Personal, Business, and Enterprise
+- GitHub Copilot Starter, Professional, and Enterprise
+- **GitHub Copilot Free, Pro, Business, and Enterprise**
 
+Command	Description
+```/clear```          Start a new chat session.
+```/explain```	       Explain how the code in your active editor works.
+```/fix```	           Propose a fix for problems in the selected code.
+```/fixTestFailure```	Find and fix a failing test.
+```/help```	          Quick reference and basics of using GitHub Copilot.
+```/new```	           Create a new project.
+```/tests```	         Generate unit tests for the selected code.
 
 
 
