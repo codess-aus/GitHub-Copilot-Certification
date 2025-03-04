@@ -940,7 +940,14 @@ Which of these is features of Copilot is only available in the Enterprise subscr
 - code review
 - **knowledge bases**
 
+## Which two things does Copilot not do well?
 
+- **Respond to prompts unrelated to coding and technology**
+- Writing tests and repetitive code
+- Debugging and correcting syntax
+- Explaining and commenting code
+- Generating regular expressions
+- **Replace your expertise and skills.**
 
 
 
