@@ -949,7 +949,12 @@ Which of these is features of Copilot is only available in the Enterprise subscr
 - Generating regular expressions
 - **Replace your expertise and skills.**
 
+## Which of these is NOT a Prerequisite for custom copilot instructions:
 
+- A custom instructions file
+- **An enterprise or business subscription.**
+- Your personal choice of whether to use custom instructions must be set to enabled.
+- During public preview, if you have copilot for business, then the organization from which you receive your subscription must have the Opt in to preview features setting enabled.
 
 
 
